@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib-codencoit" alt="rakib-codencoit" /></a> </p>
 
-- 🔭 I’m currently working on **TCG CRM, OMNI CRM, TCG COMMERCE**
+- 🔭 I’m currently working on **Codenco IT**
 
 - 🌱 I’m currently learning **Django, React**
 
