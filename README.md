@@ -9,12 +9,6 @@
 
 - 🌱 I’m currently learning **Django, React**
 
-- 👨‍💻 All of my projects are available at [http://mrakib.thecodegrammer.net/](http://mrakib.thecodegrammer.net/)
-
-- 📫 How to reach me **thecodegrammer@gmail.com**
-
-- 📄 Know about my experiences [https://mrakib.thecodegrammer.net/curriculum-vitae/2/rakib-hasan/](https://mrakib.thecodegrammer.net/curriculum-vitae/2/rakib-hasan/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/raakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raakibhasan" height="30" width="40" /></a>
